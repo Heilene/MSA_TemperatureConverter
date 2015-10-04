@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DYNAMICWORX</Machine>
+    <WindowsUser>DWX</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d02fca76-faef-4ed2-9a8f-ea3c66781076</PackageIdentityName>
+    <IntermediateOutputPath>F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D1A16E4D6C99BF95A90B9A67F4544EE354914BB6AFFE759A125858E0885698B2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d02fca76-faef-4ed2-9a8f-ea3c66781076_1.0.0.0_neutral__ps0vydzrf9ds6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d02fca76-faef-4ed2-9a8f-ea3c66781076_ps0vydzrf9ds6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d02fca76-faef-4ed2-9a8f-ea3c66781076</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=DWX</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-04T22:57:15.740</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\MSA_TemperatureConverter.Windows.exe">
+      <PackagePath>MSA_TemperatureConverter.Windows.exe</PackagePath>
+      <Modified>2015-10-04T23:09:23.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-04T23:03:09.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-04T23:04:39.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-04T22:59:20.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-04T23:04:07.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\Images\Cold.png">
+      <PackagePath>Images\Cold.png</PackagePath>
+      <Modified>2015-10-04T20:49:36.244</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\Images\hot.png">
+      <PackagePath>Images\hot.png</PackagePath>
+      <Modified>2015-10-04T20:49:36.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\Images\Mild.png">
+      <PackagePath>Images\Mild.png</PackagePath>
+      <Modified>2015-10-04T20:49:36.240</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\Images\clouds-1552494.jpg">
+      <PackagePath>Images\clouds-1552494.jpg</PackagePath>
+      <Modified>2015-10-04T20:53:05.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-10-04T21:47:03.537</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-10-04T23:09:23.541</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\MSA_TemperatureConverter.Windows.xr.xml">
+      <PackagePath>MSA_TemperatureConverter.Windows.xr.xml</PackagePath>
+      <Modified>2015-10-04T23:09:23.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-10-04T22:57:15.547</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

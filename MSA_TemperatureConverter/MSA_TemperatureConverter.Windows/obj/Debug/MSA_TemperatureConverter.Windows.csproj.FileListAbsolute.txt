@@ -1,0 +1,64 @@
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\App.xbf
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\MainPage.xbf
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\MSA_TemperatureConverter.Windows.xr.xml
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\MSA_TemperatureConverter.Windows.exe
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\MSA_TemperatureConverter.Windows.pdb
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\resources.pri
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\AppxManifest.xml
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\MSA_TemperatureConverter.Windows.build.appxrecipe
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\App.g.i.cs
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\App.g.cs
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\MainPage.g.cs
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\App.xaml
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\App.xbf
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\MainPage.xaml
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\MainPage.xbf
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\MSA_TemperatureConverter.Windows.exe
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\MSA_TemperatureConverter.Windows.pdb
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\priconfig.xml
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\layout.resfiles
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\resources.resfiles
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\pri.resfiles
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\qualifiers.txt
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\DWX\Google Drive\DSED\C#\MSA-Training All files\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\ProjectArchitectures.txt
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\App.xbf
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\MainPage.xbf
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\MSA_TemperatureConverter.Windows.xr.xml
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\MSA_TemperatureConverter.Windows.exe
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\MSA_TemperatureConverter.Windows.pdb
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\resources.pri
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\AppxManifest.xml
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\bin\Debug\MSA_TemperatureConverter.Windows.build.appxrecipe
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\App.g.i.cs
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\App.g.cs
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\MainPage.g.i.cs
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\MainPage.g.cs
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\XamlTypeInfo.g.cs
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\App.xaml
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\MainPage.xaml
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\App.xbf
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\MainPage.xbf
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\XamlSaveStateFile.xml
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\MSA_TemperatureConverter.Windows.exe
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\MSA_TemperatureConverter.Windows.pdb
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\priconfig.xml
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\priconfig.xml.intermediate
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\layout.resfiles
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\layout.resfiles.intermediate
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\resources.resfiles
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\resources.resfiles.intermediate
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\pri.resfiles
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\pri.resfiles.intermediate
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\qualifiers.txt
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\qualifiers.txt.intermediate
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,1 @@
+F:\MSA_TemperatureConverter\MSA_TemperatureConverter\MSA_TemperatureConverter.Windows\MSA_TemperatureConverter.Windows.csproj;neutral
